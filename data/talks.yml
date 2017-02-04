@@ -1,3 +1,31 @@
+- title: "Test utilisateurs et agilité, Paris"
+  date: 2016-11-09
+  author: Matti Schneider
+  description: |
+    Comment mener une campagne de tests utilisateurs pour améliorer significativement l'UX d'une application web en deux semaines ? Matti nous partagera son expérience issue des projets réalisés pour beta.gouv.fr.
+  url: /
+
+- title: "Du design de pages au design de systèmes, Bordeaux"
+  date: 2016-09-26
+  author: Ian Smallwood et Clémént Ollivier
+  description: |
+    Plus une interface web grandit, plus il devient difficile de penser son design comme une suite de pages. Nous ne concevons plus des maquettes figées mais des ensembles de composants, amenés à cohabiter sur des appareils de tailles et de résolutions toujours plus variées. Comment créer des styleguides à la fois robustes et modulaires ? Avec quels outils ? Comment améliorent-ils la communication entre les équipes du projet ?
+  url: https://ismallwood.github.io/dandtalkdeck/#/
+
+- title: "Nouveau modèle d’agence, Bordeaux"
+  date: 2016-08-29
+  author: Luc Chaissac
+  description: |
+    Découvrez un autre modèle que les agences, basé sur la transparence, la confiance et les résultats. Présentation via les pratiques d’Az Foundry, session créative, daily delivery, support d'intégration.
+  url: https://speakerdeck.com/dbtalks/nouveau-modele-dagence-par-luc-chaissac
+
+- title: "Projection du documentaire Design Disruptors au NUMA Paris"
+  date: 2016-07-26
+  author: Design Disruptors X Design & Beers Talks
+  description: |
+    Le collectif Design and Beers Talks est tout excité de vous inviter à une avant-première du documentaire Design Disruptors.
+  url: https://www.designdisruptors.com/
+
 - title: "Design & Photographie, l'image comme élément de narration"
   date: 2016-05-30
   author: Jonathan Jato
